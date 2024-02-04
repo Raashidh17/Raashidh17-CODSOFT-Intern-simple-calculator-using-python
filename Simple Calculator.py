@@ -20,7 +20,7 @@ def divide(x, y):
 n1=int(input("Enter the first number: "))
 n2=int(input("Enter the second number: "))
 
-#operation choices
+#operation choices.
 
 print("Operation Choices:")
 print("1. Add")
